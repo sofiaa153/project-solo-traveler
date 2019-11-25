@@ -1,0 +1,23 @@
+body {
+  padding-top: 5rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+h1 {
+  color: darkgreen;
+}
+img{
+  width: 200px;
+  heights: 200px
+}
+.btn-warning {
+  background-color: yellow;
+}
+.btn-light {
+  background-color: lightblue;
+}
+.btn-dark {
+  background-color: purple;
+}
