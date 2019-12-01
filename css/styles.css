@@ -15,7 +15,7 @@ h1 {
   font-size: 30px;
   font-family: serif;
 }
-h2,h3,h4{
+h2,h3,h4,h5{
   color: darkgreen;
   font-size: 30px;
   font-family: monospace;
@@ -27,7 +27,14 @@ img{
 .btn-primary {
   background-color: lightblue;
 }
+.btn-primary1{
+  background-color: lightyellow;
+}
+.btn-primary2{
+  background-color: lightpink;
+}
 
  img {
-   width: 200rem
+   width: 400px;
+   height: 350px;
  }
