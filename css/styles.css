@@ -24,14 +24,18 @@ img{
   width: 100px;
   heights: 350px;
 }
-.btn-warning {
-  background-color: yellow;
+img{
+  width: 100px;
+  heights: 100px;
 }
-.btn-light {
+.btn-primary {
   background-color: lightblue;
 }
-.btn-dark {
-  background-color: purple;
+.btn-primary1{
+  background-color: lightyellow;
+}
+.btn-primary2{
+  background-color: lightpink;
 }
 
  img {
