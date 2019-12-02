@@ -20,10 +20,6 @@ h2,h3,h4,h5{
   font-size: 30px;
   font-family: monospace;
 }
-img{
-  width: 100px;
-  heights: 100px;
-}
 .btn-primary {
   background-color: lightblue;
 }
@@ -33,8 +29,3 @@ img{
 .btn-primary2{
   background-color: lightpink;
 }
-
- img {
-   width: 400px;
-   height: 350px;
- }
