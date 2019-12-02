@@ -1,3 +1,8 @@
+title{
+  font-size: 90px;
+  font-family: sans-serif;
+
+}
 body {
   padding-top: 5rem;
 }
@@ -7,10 +12,17 @@ body {
 }
 h1 {
   color: darkgreen;
+  font-size: 60px;
+  font-family: serif;
+}
+h2,h3,h4,h5{
+  color: darkgreen;
+  font-size: 30px;
+  font-family: monospace;
 }
 img{
-  width: 200px;
-  heights: 200px
+  width: 100px;
+  heights: 350px;
 }
 .btn-warning {
   background-color: yellow;
@@ -21,3 +33,14 @@ img{
 .btn-dark {
   background-color: purple;
 }
+
+ img {
+   width: 400px;
+   height: 350px;
+ }
+div {
+  text-align: justify;
+}
+body {
+ background-image: url("https://artwallbazaar.com/wp-content/uploads/fruity-magic-lemon-pattern-wallpaper-mural-pale-yellow-background.jpg");
+ background-color: #cccccc;
